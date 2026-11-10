@@ -2,7 +2,7 @@
 
 > An interactive career-analytics web application that reads your resume, compares it with the job market for your chosen target role, recommends the best-matching jobs with an explainable score, and shows exactly which skills to learn next. Built with Python, SQL, NLP, machine learning and Streamlit.
 
-[📊 GitHub Repository](https://github.com/ParasKamble02/Careerlytics)
+[📊 Live Demo](https://careerlytics-ai-powered-career-intelligence-pdk02.streamlit.app/) | [📊 GitHub Repository](https://github.com/ParasKamble02/Careerlytics)
 
 ## Table of Contents
 
