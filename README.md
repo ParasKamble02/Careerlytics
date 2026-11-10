@@ -43,7 +43,6 @@
 
 ## Screenshots
 
-> Save your screenshots in a `screenshots/` folder using these names and they will appear here.
 
 | Dashboard | Resume Insights |
 |---|---|
