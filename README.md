@@ -374,11 +374,8 @@ The schema for MySQL is in [`sql/schema_mysql.sql`](sql/schema_mysql.sql), and e
 ## Limitations
 
 - **Job postings are synthetic.** Percentages, salaries and role shares describe the generated data, not the real job market.
-- **ML labels are synthetic**, as described in [Machine Learning Model](#machine-learning-model).
 - **Skill extraction is dictionary-based** (70 skills). Skills outside the taxonomy are ignored, and scanned PDFs need OCR.
 - **Accounts are basic:** no email verification or password reset, and a browser refresh ends the session (the saved resume analysis returns on the next log-in).
-- **No scraping or live feeds** are included.
-- Small groups (for example one role in one city) can produce shares that move several points from run to run.
 
 ---
 
